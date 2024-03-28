@@ -1,6 +1,6 @@
 #How many total combinations are possible? Show the math along with the code!
 num = 6
-tot_combos = num_sides * num
+tot_combos = num * num
 print("Total combinations:", tot_combos)
 
 #Calculate and display the distribution of all possible combinations that can be obtained when rolling both Die A and Die B together. Show the math along with the code!
